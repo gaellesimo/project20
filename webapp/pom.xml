@@ -11,8 +11,8 @@
   </parent>
 
   <artifactId>chris</artifactId>
-  <packaging>chris</packaging>
-  <name>gaga</name>
+  <packaging>war</packaging>
+  <name>chris</name>
   <description>chris.</description>
 
   <build>
